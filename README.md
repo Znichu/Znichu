@@ -8,15 +8,15 @@
   </a>
   <img src="https://i.imgur.com/FIER2ut.png">
   <a href="https://www.youtube.com/c/thewhiteh4t">
-    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/youtube.svg">
+    <img width="40px" height="40px" src="https://github.com/Znichu/Znichu/blob/master/051-telegram.svg">
   </a>
   <img src="https://i.imgur.com/FIER2ut.png">
   <a href="https://t.me/thewhiteh4t">
-    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/telegram.svg">
+    <img width="40px" height="40px" src="https://github.com/Znichu/Znichu/blob/master/051-gmail.svg">
   </a>
   <img src="https://i.imgur.com/FIER2ut.png">
   <a href="https://www.linkedin.com/in/lohityapushkar">
-    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/linkedin.svg">
+    <img width="40px" height="40px" src="https://github.com/Znichu/Znichu/blob/master/051-skype.svg">
   </a>
 </p>
 ---
