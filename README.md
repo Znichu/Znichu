@@ -4,19 +4,19 @@
 
 <p align="center">
   <a href="https://twitter.com/thewhiteh4t">
-    <img width="40px" height="40px" src="https://github.com/Znichu/Znichu/blob/master/051-linkedin.svg">
+    <img width="40px" height="40px" src="https://github.com/Znichu/Znichu/blob/master/008-linkedin.svg">
   </a>
   <img src="https://i.imgur.com/FIER2ut.png">
-  <a href="https://www.youtube.com/c/thewhiteh4t">
-    <img width="40px" height="40px" src="https://github.com/Znichu/Znichu/blob/master/051-telegram.svg">
+  <a href="https://t.me/Znichu">
+    <img width="40px" height="40px" src="https://github.com/Znichu/Znichu/blob/master/017-telegram.svg">
   </a>
   <img src="https://i.imgur.com/FIER2ut.png">
-  <a href="https://t.me/thewhiteh4t">
-    <img width="40px" height="40px" src="https://github.com/Znichu/Znichu/blob/master/051-gmail.svg">
+  <a href="sergeyznich@gmail.com">
+    <img width="40px" height="40px" src="https://github.com/Znichu/Znichu/blob/master/005-gmail.svg">
   </a>
   <img src="https://i.imgur.com/FIER2ut.png">
   <a href="https://www.linkedin.com/in/lohityapushkar">
-    <img width="40px" height="40px" src="https://github.com/Znichu/Znichu/blob/master/051-skype.svg">
+    <img width="40px" height="40px" src="https://github.com/Znichu/Znichu/blob/master/013-skype.svg">
   </a>
 </p>
 
