@@ -1,4 +1,4 @@
-![](https://github.com/Znichu/Znichu/blob/master/header_.png)
+![](https://github.com/Znichu/Znichu/blob/master/reactnative_redux.png)
 
 <h3 align="center">Hello there, I'm Sergey 👋</h3>
 
