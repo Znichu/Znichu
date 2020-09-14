@@ -2,7 +2,7 @@
 
 <h3 align="center">Hello there, I'm Sergey 👋</h3>
 
-<p align="center">
+
 [<img align="center" alt="linkedin" width="40px" src="https://github.com/Znichu/Znichu/blob/master/008-linkedin.svg" />][linkedin]
 [<img align="center" alt="telegram" width="40px" src="https://github.com/Znichu/Znichu/blob/master/017-telegram.svg" />][telegram]
 [<img align="center" alt="email" width="40px" src="https://github.com/Znichu/Znichu/blob/master/005-gmail.svg" />][gmail]
@@ -10,7 +10,7 @@
 [linkedin]: https://www.linkedin.com/in/sergey-neplashov
 [telegram]: https://twitter.com/ivankleshnin
 [gmail]: mailto:sergeyznich@gmail.com
-</p>
+
 
 ---
 
