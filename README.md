@@ -7,9 +7,9 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/sergey-neplashov" alt="Linkedin"><img width="50px" src="https://github.com/Znichu/Znichu/blob/master/008-linkedin.svg"></a>
-    <a href="https://t.me/Znichu" alt="Telegram"><img width="50px" src="https://github.com/Znichu/Znichu/blob/master/017-telegram.svg"></a>
-    <a href="mailto:sergeyznich@gmail.com" alt="Contact me"><img width="50px" src="https://github.com/Znichu/Znichu/blob/master/005-gmail.svg"></a>
+    <a href="https://www.linkedin.com/in/sergey-neplashov" alt="Linkedin"><img width="30px" src="https://github.com/Znichu/Znichu/blob/master/linkedin.svg"></a>
+    <a href="https://t.me/Znichu" alt="Telegram"><img width="30px" src="https://github.com/Znichu/Znichu/blob/master/telegram.svg"></a>
+    <a href="mailto:sergeyznich@gmail.com" alt="Contact me"><img width="30px" src="https://github.com/Znichu/Znichu/blob/master/gmail.svg"></a>
   </p>
 </p>
 <hr>
