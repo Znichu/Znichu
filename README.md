@@ -1,17 +1,17 @@
 ![](https://github.com/Znichu/Znichu/blob/master/header.png)
 
-<h3 align="center">Hello there, I'm Sergey 👋</h3>
+
 
 <hr>
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+<h3 align="center">Hello there, I'm Sergey 👋</h3>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/sergey-neplashov" alt="Linkedin"><img width="40px" src="https://github.com/Znichu/Znichu/blob/master/008-linkedin.svg"></a>
     <a href="https://t.me/Znichu" alt="Telegram"><img width="40px" src="https://github.com/Znichu/Znichu/blob/master/017-telegram.svg"></a>
     <a href="mailto:sergeyznich@gmail.com" alt="Contact me"><img width="40px" src="https://github.com/Znichu/Znichu/blob/master/005-gmail.svg"></a>
   </p>
-</p>
+
 <hr>
 
 <p align="center">
