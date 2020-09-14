@@ -16,9 +16,9 @@
     <img width="40px" height="40px" src="https://github.com/Znichu/Znichu/blob/master/013-skype.svg">
   </a>
   
-[<img align="left" alt="linkedin" width="40px" src="https://github.com/Znichu/Znichu/blob/master/008-linkedin.svg" />][linkedin]
-[<img align="left" alt="telegram" width="40px" src="https://github.com/Znichu/Znichu/blob/master/017-telegram.svg" />][telegram]
-[<img align="left" alt="email" width="40px" src="https://github.com/Znichu/Znichu/blob/master/005-gmail.svg" />][gmail]
+[<img align="center" alt="linkedin" width="40px" src="https://github.com/Znichu/Znichu/blob/master/008-linkedin.svg" />][linkedin]
+[<img align="center" alt="telegram" width="40px" src="https://github.com/Znichu/Znichu/blob/master/017-telegram.svg" />][telegram]
+[<img align="center" alt="email" width="40px" src="https://github.com/Znichu/Znichu/blob/master/005-gmail.svg" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/sergey-neplashov
 [telegram]: https://twitter.com/ivankleshnin
