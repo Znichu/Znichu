@@ -1,23 +1,14 @@
 ![](https://github.com/Znichu/Znichu/blob/master/img/header.png)
 
-
-
 <hr>
-
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-<p>Welcome to my page! I'm Sergey, Front-end developer.</p>
-
-
 
 ### Connect with me:
   <p>
-    <a href="https://www.linkedin.com/in/sergey-neplashov" alt="Linkedin"><img width="40px" src="https://github.com/Znichu/Znichu/blob/master/img/008-linkedin.svg"></a>
-    <a href="https://t.me/Znichu" alt="Telegram"><img width="40px" src="https://github.com/Znichu/Znichu/blob/master/img/017-telegram.svg"></a>
-    <a href="mailto:sergeyznich@gmail.com" alt="Contact me"><img width="40px" src="https://github.com/Znichu/Znichu/blob/master/img/005-gmail.svg"></a>
-  </p>
-  
-<br/>
-  
+    <a href="https://www.linkedin.com/in/sergey-neplashov" alt="Linkedin"><img width="30px" src="https://github.com/Znichu/Znichu/blob/master/img/linkedin.svg"></a>
+    <a href="https://t.me/Znichu" alt="Telegram"><img width="30px" src="https://github.com/Znichu/Znichu/blob/master/img/telegram.svg"></a>
+    <a href="mailto:sergeyznich@gmail.com" alt="Contact me"><img width="30px" src="https://github.com/Znichu/Znichu/blob/master/img/gmail.svg"></a>
+  </p> 
+
 ### Languages and Tools:
 <p>
   <img width="30px" alt="React" src="https://github.com/Znichu/Znichu/blob/master/img/skills/react.svg" />
