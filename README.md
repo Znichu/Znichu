@@ -24,9 +24,14 @@
 
 <br/>
 <br/>
-
-<hr>
+<br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Znichu&show_icons=true&line_height=21&theme=nord"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Znichu&show_icons=true&line_height=21"/>
 </p>
+
+<br/>
+<br/>
+<br/>
+
+![](https://github.com/Znichu/Znichu/blob/master/img/new_bottom.png)
