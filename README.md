@@ -2,7 +2,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
@@ -13,6 +12,7 @@
     <a href="mailto:sergeyznich@gmail.com" alt="Contact me"><img align="left" width="30px" src="https://github.com/Znichu/Znichu/blob/master/img/gmail.svg"></a>
   </p> 
 
+<br/>
 <br/>
 
 ### Languages and Tools:
