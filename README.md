@@ -1,6 +1,4 @@
-![](https://github.com/Znichu/Znichu/blob/master/img/header.png)
-
-<hr>
+![](https://github.com/Znichu/Znichu/blob/master/img/top_.png)
 
 ### Connect with me:
   <p>
