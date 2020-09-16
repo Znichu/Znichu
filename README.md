@@ -1,5 +1,11 @@
 ![](https://github.com/Znichu/Znichu/blob/master/img/new_top.png)
 
+<br/>
+<br/>
+<br/>
+
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
 ### Connect with me:
   <p>
     <a href="https://www.linkedin.com/in/sergey-neplashov" alt="Linkedin"><img align="left" width="30px" src="https://github.com/Znichu/Znichu/blob/master/img/linkedin.svg"></a>
